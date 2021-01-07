@@ -8,8 +8,8 @@ h1 {
 }
 
 p {
-  border: 50px solid black;
-  background-color: #A52A2A;
+  font-size: 100px;
+  font-color: red;
 }
 
 
