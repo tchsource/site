@@ -1,15 +1,12 @@
 
-/********** Base styles **********/
-* {
-  box-sizing: border-box;
-}
-h1 {
-  margin-bottom: 15px;
-}
-
 p {
-  font-size: 100px;
-  font-color: red;
+  border: 1px solid black;
+  background-color: #A52A2A;
+  width: 90%;
+  height: 150px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
 }
-
 
