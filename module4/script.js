@@ -55,10 +55,10 @@ for ( var i=0; i<names.length;i++) {
   // 'j'. If the same, call byeSpeaker's 'speak' method with the current name
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
-  if (firsLetter == "j") {
+  if (firstLetter == "j") {
      byeSpeaker.speak(names[i]);
   } else {
     helloSpeaker.speak(names[i]);
   }
 }
-     }) (window);
+     })(window);
